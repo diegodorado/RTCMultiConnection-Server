@@ -10,13 +10,7 @@
   "description": "RTCMultiConnection socket.io server",
   "repository": {
     "type": "git",
-    "url": "https://github.com/muaz-khan/RTCMultiConnection-Server.git"
-  },
-  "scripts": {
-    "start": "node server.js"
-  },
-  "engines": {
-    "node": "latest"
+    "url": "https://github.com/diegodorado/RTCMultiConnection-Server.git"
   },
   "main": "./node_scripts/index.js",
   "keywords": [
@@ -42,16 +36,7 @@
     "muaz",
     "muaz-khan"
   ],
-  "dependencies": {
-    "socket.io": "latest"
-  },
   "analyze": false,
   "license": "MIT",
-  "readmeFilename": "README.md",
-  "bugs": {
-    "url": "https://github.com/muaz-khan/RTCMultiConnection-Server/issues",
-    "email": "muazkh@gmail.com"
-  },
-  "homepage": "https://rtcmulticonnection.herokuapp.com/demos/",
   "_from": "rtcmulticonnection-server@"
 }
